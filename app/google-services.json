@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "400444419115",
+    "project_id": "women-safety-app-4eb07",
+    "storage_bucket": "women-safety-app-4eb07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400444419115:android:b7a51d95bceee693884e6e",
+        "android_client_info": {
+          "package_name": "android.hardware.sensor.accelerometer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd-b2RvbdzisLnZlmnPFZhEkyvqvj0R_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400444419115:android:7f268d3d1be24c84884e6e",
+        "android_client_info": {
+          "package_name": "com.android.sheguard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd-b2RvbdzisLnZlmnPFZhEkyvqvj0R_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
